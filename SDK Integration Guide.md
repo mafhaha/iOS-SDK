@@ -492,7 +492,7 @@ Delegate
 ``` 
 
 ### <a name="sdkDemo">SDK Demo Download</a>
-1. [Download Demo](https://github.com/ad-thor/iOS_SDK/blob/master/ApplinsDemo.zip).
+1. [Download Demo](https://github.com/mafhaha/iOS-SDK/blob/master/ApplinsDemo.zip).
 2. Run 'pod update' in terminal.
 
 ## <a name="error">Error Code For SDK</a>
